@@ -1,0 +1,2 @@
+# R5T.T0124
+ISearchPattern and ISearchPatternOperator extension method bases.
